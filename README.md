@@ -1,4 +1,4 @@
-# ffxiv-gatheroute-data
+# FFXIV Gatheroute
 Repository for FFXIV Gatheroute application's data.
 
 <img src="https://user-images.githubusercontent.com/31596992/201474828-99bda6b0-eea8-4310-82bb-dc349fb29419.png" width="50">
